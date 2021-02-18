@@ -20,19 +20,27 @@
 - El teorema de THEVENIN es una manera de analisis, que nos ayuda a simplificar a un circuito electrico de manera estandar y asi poder resolver circuitos complejos.
 
 
+![](https://github.com/JonathanGuaman/Laboratorio-5/blob/main/Marco%20Teorico/Marco%20Teorico.png)
+
 ## 3.- DIAGRAMAS:
 
 - Modelo a circuito a calcular:
+
+![](https://github.com/JonathanGuaman/Laboratorio-5/blob/main/Diagramas/Diagrama.png)
 
 Figura 3.1
 
 
 -  Circuito en Tinkercad:
 
+![](https://github.com/JonathanGuaman/Laboratorio-5/blob/main/Diagramas/Diagrama%20Simulado.png)
+
 Figura 3.2
 
 
 - Valores de voltaje y amperaje con respecto a R5:
+
+![](https://github.com/JonathanGuaman/Laboratorio-5/blob/main/Diagramas/Diagrama%20Calculado.png)
 
 Figura 3.3
 
@@ -40,6 +48,7 @@ Figura 3.3
 
 ## 4.- LISTADO DE COMPONENTES:
 
+![](https://github.com/JonathanGuaman/Laboratorio-5/blob/main/Tablas/Tabla%20de%20componentes.png)
 
 Figura 4.1
 
@@ -61,6 +70,7 @@ Figura 4.1
 
 - Despues de encontrar la resistencia de Thevenin, buscamos el voltaje que va a circular en el terminal que estaba conectado inicialmente y lo vamos denominar el voltaje de Thevenin por el motivo que usaremos el diagrama de Thevenin que es siguiente:
 
+![](https://github.com/JonathanGuaman/Laboratorio-5/blob/main/Diagramas/Diagrama%20de%20Thevenin.png)
 
 Figura 5.1.1
 
@@ -72,17 +82,20 @@ Figura 5.1.1
 
 - Despues de resolver el circuito electrico por medio del Teorema de Thevenin anotamos todos los valores en las  siguintes tablas:
 
+![](https://github.com/JonathanGuaman/Laboratorio-5/blob/main/Tablas/Tabla%205.1.png)
+
 
 Figura 5.1.2
 
 
+![](https://github.com/JonathanGuaman/Laboratorio-5/blob/main/Tablas/Tabla%205.2.png)
 
 Figura 5.2.3
 
 
 ### 5.2.1.-Calculo de valor de error:
 
-
+![](https://github.com/JonathanGuaman/Laboratorio-5/blob/main/Diagramas/Porcentaje%20de%20error.png)
 
 Figura 5.2.1
 
